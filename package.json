@@ -1,0 +1,22 @@
+{
+  "name": "meetmaina",
+  "version": "1.0.0",
+  "description": "application will aim to make meeting ,learning and skill transfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinijindal10/MeetMania.git"
+  },
+  "keywords": [
+    "Skill"
+  ],
+  "author": "Ashwini Jindal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinijindal10/MeetMania/issues"
+  },
+  "homepage": "https://github.com/ashwinijindal10/MeetMania#readme"
+}
